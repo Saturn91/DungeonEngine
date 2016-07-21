@@ -1,0 +1,30 @@
+Todo:
+
+1. Map drawing --> check
+
+2. Player drawing --> check
+
+2.1 Player Animation --> check
+
+2.3 update renderer (map.render(renderer, shader))
+
+3. Controler (wich can be changed/ costumized) --> check
+
+3. Physics (Collision check) 
+
+3.1  Player Hitbox (so that not only edges get checked!)
+
+3.2 Jump
+
+3.9 Text -> check
+
+4. Bullets
+
+5. Sound -> check
+
+6. Simple KI
+
+7. Death
+
+8. Screen shaking
+
